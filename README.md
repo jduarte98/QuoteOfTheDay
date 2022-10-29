@@ -1,4 +1,4 @@
-# QuoteOfTheDay
+# Quote Of TheDay
 Quote of The Day Program. Really simple, non-formated results and console program. This program is inpired in the Quote of The Day Protocol, but, in this case the program doesn't make usage of any protocol, just some harcoded quotes in a database table. The purpose of this program is to test some basic Python language basic concepts.
 
 ## What is a Quote of The Day Program?
