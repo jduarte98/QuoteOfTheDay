@@ -1,8 +1,7 @@
-# Quote Of The Day - 2022#
-#Author: João Duarte
+# Quote Of The Day - 2022 #
+# Author: João Duarte
 
 #Database Creation Query
-
 CREATE DATABASE `quote_of_the_day_2022`;
 
 # Quotes Table Creation #
